@@ -4,9 +4,6 @@
 * [Photoshop AI Generative Fill was used for its intended purpose : r/ChatGPT](https://www.reddit.com/r/ChatGPT/comments/13wfaqg/photoshop_ai_generative_fill_was_used_for_its/)
 * [Mixing People with Blobfish : r/midjourney](https://www.reddit.com/r/midjourney/comments/14070le/mixing_people_with_blobfish/)
 * ["AI will soon take over the world" : r/ChatGPT](https://www.reddit.com/r/ChatGPT/comments/13y5166/ai_will_soon_take_over_the_world/)
- ![[bafkreiclxz26gqddj2lf7rbjc3v66ydu5ppqg3t5aa7ko2ipjcuoxto73q.png]]
----
-![[Untitled.jpeg]] 
 
 ---
 # News
@@ -24,7 +21,7 @@
 
 ---
 [AI tools apps in one place sorted by category : r/ChatGPT](https://www.reddit.com/r/ChatGPT/comments/13up0c6/ai_tools_apps_in_one_place_sorted_by_category/)
-![[yzihs827wr2b1.webp]]
+[Generative AI Landscape graphic](yzihs827wr2b1.webp)
 ---
 # Sharing
 * GitHub Copilot Labs
